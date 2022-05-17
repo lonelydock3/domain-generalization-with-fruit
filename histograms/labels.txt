@@ -1,0 +1,1 @@
+['apple', 'avocado', 'banana', 'pear', 'blueberry', 'nut', 'cherry', 'tomato', 'chestnut', 'fig', 'peach', 'melon', 'grapefruit', 'dates', 'guava', 'hazelnut', 'kiwi', 'lemon', 'mango', 'nectarine', 'papaya', 'passion', 'pineapple', 'plum', 'pomegranate', 'pomelo', 'rambutan', 'raspberry', 'salak']

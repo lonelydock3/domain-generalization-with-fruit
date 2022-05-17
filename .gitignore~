@@ -1,0 +1,20 @@
+# ignoring files and directories
+
+# directories
+augmented_fruit360_test/
+augmented_fruit360_train/
+augmented_fruit360_train_small/
+augmented_fruit360_validation/
+fru92_images/
+fruit360_images/
+fruit360_test/
+fruit360_train/
+fruit360_train_small/
+fruit360_validation/
+fruit-360/
+vegfru_images/
+vegfru_list/
+vegfru_test/
+NeurIPS Template/
+
+
